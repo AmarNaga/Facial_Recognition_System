@@ -1,2 +1,0 @@
-first run index_gui
-index_gui matra run hunxa ...thats Gui part to connect all part
